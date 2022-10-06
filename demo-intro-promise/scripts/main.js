@@ -58,3 +58,5 @@ const customFetch = (name) => {
 		console.log(error, "ERROR");
 	}
 })();
+
+//Openweather api key => e0ceeda39c4e4968fbfe7f7904f73b1c
